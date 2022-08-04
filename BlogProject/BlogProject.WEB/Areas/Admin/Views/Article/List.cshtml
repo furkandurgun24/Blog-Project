@@ -1,0 +1,65 @@
+﻿@model List<GetArticleVM>
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Articles</h3>
+        <div class="card-tools">
+            <ul class="pagination pagination-sm float-right">
+                <li class="page-item"><a class="page-link" href="#">«</a></li>
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item"><a class="page-link" href="#">»</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="card-body p-0">
+        <table class="table">
+
+            <!-- Table Head -->
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Content</th>
+                    <th>Photo</th>
+                    <th>Category</th>
+                    <th style="width: 200px" class="text-center">Operations</th>
+                </tr>
+            </thead>
+
+            <!-- Table Body -->
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        @if (@item.Title.Length > 25)
+                        {
+                            <td> <a class="text-dark" asp-controller="Article" asp-action="Detail" asp-route-id="@item.ArticleID">@item.Title.Substring(0,25)</a></td>
+                        }
+                        else
+                        {
+                            <td> <a class="text-dark" asp-controller="Article" asp-action="Detail" asp-route-id="@item.ArticleID">@item.Title</a></td>
+                        }
+
+                        @if (@item.Content.Length > 50)
+                        {
+                            <td>@item.Content.Substring(0,50)</td>
+                        }
+                        else
+                        {
+                            <td>@item.Content</td>
+                        }
+                        <td><img src="@item.Image" class="img-circle" style="width: 50px" /></td>
+                        <td>@item.CategoryName</td>
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@item.ArticleID" class="btn btn-danger">Delete</a>
+                            <a asp-action="Detail" asp-route-id="@item.ArticleID" class="btn btn-secondary">Detail</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>

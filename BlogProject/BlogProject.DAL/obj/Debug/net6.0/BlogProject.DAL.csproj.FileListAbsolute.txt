@@ -1,0 +1,68 @@
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.AssemblyReference.cache
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.AssemblyInfoInputs.cache
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.AssemblyInfo.cs
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.deps.json
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.dll
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\bin\Debug\net6.0\ref\BlogProject.DAL.dll
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.pdb
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.Models.dll
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.Models.pdb
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.CopyComplete
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.dll
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\obj\Debug\net6.0\ref\BlogProject.DAL.dll
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.pdb
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.runtimeconfig.json
+C:\Users\bilge.adam\Desktop\MVC\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.genruntimeconfig.cache
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.deps.json
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.runtimeconfig.json
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.dll
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.pdb
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.Models.dll
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.Models.pdb
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.AssemblyInfoInputs.cache
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.AssemblyInfo.cs
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.CopyComplete
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.dll
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\refint\BlogProject.DAL.dll
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.pdb
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.genruntimeconfig.cache
+C:\Users\hasan\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\ref\BlogProject.DAL.dll
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.deps.json
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.runtimeconfig.json
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.dll
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.pdb
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.Models.dll
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.Models.pdb
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.AssemblyInfoInputs.cache
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.AssemblyInfo.cs
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.CopyComplete
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.dll
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\refint\BlogProject.DAL.dll
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.pdb
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.genruntimeconfig.cache
+C:\Users\hasan\Desktop\Yeni klasör\BlogProject\BlogProject.DAL\obj\Debug\net6.0\ref\BlogProject.DAL.dll
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.deps.json
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.runtimeconfig.json
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.dll
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\ref\BlogProject.DAL.dll
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.DAL.pdb
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.Models.dll
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\bin\Debug\net6.0\BlogProject.Models.pdb
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.AssemblyReference.cache
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.AssemblyInfoInputs.cache
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.AssemblyInfo.cs
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.csproj.CopyComplete
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.dll
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\ref\BlogProject.DAL.dll
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.pdb
+C:\Users\bilge.adam\Desktop\BlogProject\BlogProject.DAL\obj\Debug\net6.0\BlogProject.DAL.genruntimeconfig.cache

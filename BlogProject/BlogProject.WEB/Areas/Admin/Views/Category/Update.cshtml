@@ -1,0 +1,32 @@
+﻿@model UpdateCategoryDTO
+
+<div class="card card-primary">
+    <div class="card-header">
+        <h3 class="card-title">KATEGORI GUNCELLEME PANELI</h3>
+    </div>
+    <!-- /.card-header -->
+    <!-- form start -->
+    <!-- Create metodu için çalışacağını asp-action ile söyleriz. Dosya İşlemlerinde Hata vermemesi için method ve enctype eklenir. -->
+    <form  asp-controller="Category" asp-action="Update"  method="post" enctype="multipart/form-data">
+         <div asp-validation-summary="All"></div>  
+        <div class="card-body">
+            <!-- Name -->
+            <div class="form-group">
+                <label asp-for="Name">Name</label>
+                <input asp-for="Name" type="text" class="form-control">
+            </div>
+            <!-- Description -->
+            <div class="form-group">
+                <label asp-for="Description">Description</label>
+                <input asp-for="Description" type="text" class="form-control">
+            </div>
+            <input asp-for="ID" type="hidden"/>
+        </div>
+        <!-- /.card-body -->
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-success">Kategoriyi Güncelle</button>
+            <button asp-action="List"  class="btn btn-primary">Listeye Geri Don</button>
+        </div>
+    </form>
+</div>

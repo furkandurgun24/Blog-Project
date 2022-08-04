@@ -1,0 +1,62 @@
+﻿@model UpdateArticleDTO
+
+
+<div class="card card-primary">
+    <div class="card-header">
+        <h3 class="card-title">MAKALE GUNCELLEME PANELI</h3>
+    </div>
+    <!-- /.card-header -->
+    <!-- form start -->
+    <!-- Create metodu için çalışacağını asp-action ile söyleriz. Dosya İşlemlerinde Hata vermemesi için method ve enctype eklenir. -->
+    <form asp-area="Member" asp-controller="Article" asp-action="Update" method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="All"></div>
+        <div class="card-body">
+            <!-- Title -->
+            <div class="form-group">
+                <label asp-for="Title">Title</label>
+                <input asp-for="Title" type="text" class="form-control">
+            </div>
+            <!-- Content -->
+            <div class="form-group">
+                <label asp-for="Content">Content</label>
+               <textarea asp-for="Content" class="form-control" rows="10" style="resize:none;width:100%;"></textarea>
+            </div>
+            <!-- Category -->
+            <div class="form-group">
+                <label asp-for="CategoryID" class="d-block">Category</label>
+                <select asp-for="CategoryID">
+                    @foreach (var item in Model.Categories)
+                    {
+                        @if (Model.CategoryID == item.ID)
+                        {
+                            <option value="@item.ID" selected>@item.Name</option>
+                        }
+                        else
+                        {
+                            <option value="@item.ID">@item.Name</option>
+                        }
+
+                    }
+                </select>
+            </div>
+            <!-- Image -->
+            <div class="form-group">
+                <label asp-for="Image" class="d-block">Image</label>
+                <img asp-for="Image" src="@Model.Image" class=""  style="width: 300px"/>
+            </div>
+            <!-- File -->
+            <div class="form-group">
+                <label asp-for="ImagePath">Image</label>
+                <input asp-for="ImagePath" type="file" class="form-control">
+            </div>
+
+        </div>
+        <input asp-for="AppUserID" type="hidden" />
+        <input asp-for="ID" type="hidden" />
+        <input asp-for="Image" type="hidden" />
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-primary">Güncelle</button>
+        </div>
+    </form>
+</div>

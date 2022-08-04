@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f535ed5-bbd8-47df-bf8b-dcc225eb8674": {
+      "ProjectGuid": "6f535ed5-bbd8-47df-bf8b-dcc225eb8674",
+      "DisplayName": "BlogProject.Models",
+      "ColorIndex": 0
+    },
+    "27c773ac-cfc0-4b51-9a75-8aa298088fa9": {
+      "ProjectGuid": "27c773ac-cfc0-4b51-9a75-8aa298088fa9",
+      "DisplayName": "ReadMe",
+      "ColorIndex": 1
+    },
+    "ad396ffa-c37c-4452-82a4-fcb01141c7ff": {
+      "ProjectGuid": "ad396ffa-c37c-4452-82a4-fcb01141c7ff",
+      "DisplayName": "BlogProject.DAL",
+      "ColorIndex": 2
+    },
+    "025a21f6-ab64-4716-9b6b-e00fe0ba29f1": {
+      "ProjectGuid": "025a21f6-ab64-4716-9b6b-e00fe0ba29f1",
+      "DisplayName": "BlogProject.WEB",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,21 @@
+﻿@model List<Category>
+
+<div class="text-center">
+    <h3> Takip Ettiğiniz Kategoriler</h3>
+
+    @if (Model.Count > 0)
+    {
+        @foreach (var item in Model)
+        {
+            <a asp-action="Filter" asp-controller="" asp-route-id="@item.ID">@item.Name</a>
+            <!-- BURAYA AYARLAMA YAPILIRSA BU KATEGORİ SEÇİLEREK YAZILMIŞ GÜNCEL 5 MAKALE GELEBİLİR-->
+        }
+
+    }
+    else
+    {
+        <h3> Takip ettiğiniz kategori bulunamamıştır...</h3>
+        <h3> İncelemek isterseniz => <a asp-action="List" asp-controller="Category">tıklayınız</a></h3>
+
+    }
+</div>
